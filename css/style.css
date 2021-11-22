@@ -1,9 +1,18 @@
-div {
-    width:100px;
-    height:100px;
-    background-color:#fea500
+.container{
+    width:350px;
+    height:600px;
+    background-color:#808080;
 }
 
 h1{
     color:white;
+    margin-left:10px;
+}
+
+.square{
+    width:100px;
+    height:100px;
+    background-color:#fea500;
+    margin-bottom:15px;
+    margin-left:20px;
 }
